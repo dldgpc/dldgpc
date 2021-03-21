@@ -1,4 +1,4 @@
-### Hi there 👋
+###作为第一个Vuepress博客，用于技术交流学习，后续更新中。。。
 
 <!--
 **dldgpc/dldgpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
